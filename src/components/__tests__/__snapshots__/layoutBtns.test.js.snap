@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot 1`] = `
+<div
+  className="btn-group"
+  data-testid="layout-btns"
+>
+  <input
+    checked={true}
+    className="btn-check"
+    readOnly={true}
+    type="checkbox"
+  />
+  <label
+    className="btn btn-outline-secondary"
+    onClick={[Function]}
+  >
+    Cards
+  </label>
+  <input
+    checked={false}
+    className="btn-check"
+    readOnly={true}
+    type="checkbox"
+  />
+  <label
+    className="btn btn-outline-secondary"
+    onClick={[Function]}
+  >
+    List
+  </label>
+</div>
+`;

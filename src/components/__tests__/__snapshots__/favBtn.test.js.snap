@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snaoshot 1`] = `
+<button
+  className="btn btn-light border-secondary position-relative pt-0"
+  data-testid="fav-btn"
+  type="button"
+>
+  <img
+    alt="star"
+    height={20}
+    src="./img/star-active.png"
+    width={20}
+  />
+  <span
+    className="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger"
+  >
+    0
+  </span>
+</button>
+`;

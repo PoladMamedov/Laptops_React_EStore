@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot 1`] = `
+<button
+  className="btn btn-light border-secondary position-relative pt-0"
+  data-testid="cart-btn"
+  type="button"
+>
+  <img
+    alt="cart"
+    height={20}
+    src="./img/shopping-cart.png"
+    width={20}
+  />
+  <span
+    className="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger"
+  >
+    0
+  </span>
+</button>
+`;

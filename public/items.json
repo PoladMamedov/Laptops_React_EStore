@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Lenovo IdeaPad L3",
+    "price": "16999",
+    "imgPath": "./img/item1.webp",
+    "article": "130920",
+    "color": "grey"
+  },
+  {
+    "id": 2,
+    "name": "Apple MacBook Air 13",
+    "price": "43499",
+    "imgPath": "./img/item2.webp",
+    "article": "120765",
+    "color": "space grey"
+  },
+  {
+    "id": 3,
+    "name": "Lenovo IdeaPad 1",
+    "price": "13999",
+    "imgPath": "./img/item3.webp",
+    "article": "148822",
+    "color": "black"
+  },
+  {
+    "id": 4,
+    "name": "ASUS TUF Gaming F15",
+    "price": "29999",
+    "imgPath": "./img/item4.webp",
+    "article": "448568",
+    "color": "black"
+  },
+  {
+    "id": 5,
+    "name": "ASUS Vivobook 16X",
+    "price": "23499",
+    "imgPath": "./img/item5.webp",
+    "article": "984153",
+    "color": "blue"
+  },
+  {
+    "id": 6,
+    "name": "Lenovo IdeaPad Gaming 3",
+    "price": "37999",
+    "imgPath": "./img/item6.webp",
+    "article": "987451",
+    "color": "black"
+  },
+  {
+    "id": 7,
+    "name": "Lenovo Yoga 7 ",
+    "price": "49999",
+    "imgPath": "./img/item7.webp",
+    "article": "636595",
+    "color": "dark grey"
+  },
+  {
+    "id": 8,
+    "name": "ASUS Laptop X515EA",
+    "price": "17999",
+    "imgPath": "./img/item8.webp",
+    "article": "595632",
+    "color": "blue"
+  },
+  {
+    "id": 9,
+    "name": "Acer Aspire 5",
+    "price": "25999",
+    "imgPath": "./img/item9.webp",
+    "article": "595232",
+    "color": "light blue"
+  },
+  {
+    "id": 10,
+    "name": "Acer Predator Helios 300",
+    "price": "84399",
+    "imgPath": "./img/item10.webp",
+    "article": "232652",
+    "color": "black"
+  }
+]
